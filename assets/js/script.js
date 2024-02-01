@@ -123,6 +123,7 @@ function displaySubtractQuestion(operand1, operand2) {
 
 }
 
+
 function displayMultiplyQuestion(operand1, operand2) {
 
     document.getElementById('operand1').textContent = operand1;
